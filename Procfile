@@ -1,1 +1,1 @@
-worker: node . --db 'mongodb+srv://egmu:egmu12345678@cluster0.7viqfsb.mongodb.net/?retryWrites=true&w=majority'
+worker: npm i && node . --db 'mongodb+srv://dian213:Dian213@cluster0.xsqotpo.mongodb.net/?retryWrites=true&w=majority'
